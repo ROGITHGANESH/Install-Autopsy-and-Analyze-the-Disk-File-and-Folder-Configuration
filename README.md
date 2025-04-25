@@ -1,5 +1,5 @@
-# NAME:T.KAVINAJAI
-# REGISTER NO: 212223100020
+# NAME:ROGITH GANESH R
+# REGISTER NO: 212223100046
 # Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
 ## AIM:
 To install Autopsy on Kali Linux and analyze disk images, files, and folder configurations for digital forensic purposes.
