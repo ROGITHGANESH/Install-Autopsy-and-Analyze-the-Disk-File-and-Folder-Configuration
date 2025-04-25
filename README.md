@@ -78,9 +78,11 @@ fls -version
 ![image](https://github.com/user-attachments/assets/f5cf71ae-1c5a-461b-861b-7619c71e3ee6)
 
 # GENERATE REPORTS:
-![image](https://github.com/user-attachments/assets/6ad1367c-fe5a-4dfa-8e18-e885391eb47d)
+
 ![image](https://github.com/user-attachments/assets/188b8ab6-645a-45c6-9bef-75bc77c71330)
-![image](https://github.com/user-attachments/assets/eb229c6c-3883-498c-9297-9a9e8d87255d)
+![Screenshot 2025-04-25 130318](https://github.com/user-attachments/assets/42e3aaf4-4f15-41a7-a563-05d5ec56ee51)
+![Screenshot 2025-04-25 130249](https://github.com/user-attachments/assets/ba93a123-5da4-4818-8a9b-d81a500783df)
+
 
 
 
